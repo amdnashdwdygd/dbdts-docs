@@ -5,5 +5,6 @@
 ## Functions
 
 * [$addActionRow](functions/addactionrow.md)
-* [$addButton](functions/usdaddbutton.md)
+* [$addButton](functions/addbutton.md)
+* [$addCmdReactions](functions/addcmdreactions.md)
 
