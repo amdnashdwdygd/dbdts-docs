@@ -21,7 +21,7 @@ This function has 5 fields.
 | disabled | Whether this select menu should be disabled or not. | boolean | yes |
 
 {% hint style="warning" %}
-* Select menus must be sent inside an action row \(refer to [$addActionRow](functions/addactionrow.md)\).
+* Select menus must be sent inside an action row \(refer to [$addActionRow](addactionrow.md)\).
 * An action row can contain only one select menu.
 * An action row containing a select menu cannot also contain buttons.
 {% endhint %}

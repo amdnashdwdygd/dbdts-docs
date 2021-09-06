@@ -8,10 +8,7 @@
 * [$addButton](functions/addbutton.md)
 * [$addCmdReactions](functions/addcmdreactions.md)
 * [$addField](functions/addfield.md)
+* [$addSelectMenu](functions/addselectmenu.md)
+* [$addSelectMenuOption](functions/addselectmenuoption.md)
 * [$allMembersCount](functions/allmemberscount.md)
-
----
-
-* [$addSelectMenu](addselectmenu.md)
-* [$addSelectMenuOption](addselectmenuoption.md)
 
