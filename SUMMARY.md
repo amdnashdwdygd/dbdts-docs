@@ -11,4 +11,8 @@
 * [$addSelectMenu](functions/addselectmenu.md)
 * [$addSelectMenuOption](functions/addselectmenuoption.md)
 * [$allMembersCount](functions/allmemberscount.md)
+* [$addThreadMember](functions/addthreadmember.md)
+* [$approximateMemberCount](functions/approximatemembercount.md)
+* [$archiveThread](functions/archivethread.md)
+* [$attachment](functions/attachment.md)
 
